@@ -7,6 +7,11 @@ to the payment flow, the marketing site and the deploy pipeline. Based in South 
 
 ### Live products
 
+**🤖 [CAI Systems](https://caisystems.co.za)** — AI visibility and marketing automation for South African businesses
+Checks whether a business shows up in Google and in AI assistant answers, then delivers a prioritised fix list.
+AI customer agents with human handoff, enquiry and quote automation, PayFast plans, POPIA-aware by design.
+`Claude · WhatsApp Business Cloud API · PayFast · GA4 · Vercel`
+
 **🎓 [ExamAce](https://examace.co.za)** — AI study platform for South African Grade 8–12 learners
 Curriculum-aligned tutoring across Maths, Physical Sciences and Life Sciences.
 Subscription billing, parent-purchase and redeem-code flows, affiliate payouts.
